@@ -370,30 +370,55 @@ education:
     summary: |
       Thesis on Natural Language Processing with title Document classification using lexical and semantic resources.
 skills:
-  - name: Skills
+  - name: Languages
     keywords:
-      - Python
-      - Docker
-      - Django
-      - Postgres
-      - Google Cloud
-      - AWS
       - Bash
+      - C
+      - C++
+      - HTML
+      - Javascript
+      - Python
+      - SQL
+      - Typescript
+  - name: Cloud & DevOps
+    keywords:
+      - AWS
       - Dagster
-      - Optuna
+      - dbt
+      - Docker
+      - GCP
+      - Google Cloud
+      - TDD
+  - name: "Data Science & ML"
+    keywords:
+      - Active Learning
+      - Bayesian Forecasting
+      - CrowdFlower API
+      - Elasticsearch
+      - Machine Learning
       - Mlflow
+      - NLP
+      - Optuna
       - Pandas
       - Prophet
-      - Scrum
+      - Scrapy
       - Selenium
-      - SQL
-      - TDD
-      - DBT
-      - Javascript
-      - Typescript
+  - name: Frameworks
+    keywords:
+      - Django
       - React
-      - HTML
-      - C
+  - name: Other
+    keywords:
+      - API Integration
+      - Chrome Extension Development
+      - Code Refactoring
+      - Multilingual Processing
+      - RESTful API
+      - Scrum
+      - SEO
+      - System Optimization
+      - Team Leadership
+      - Windows Software Development
 languages:
   - language: English
   - language: Spanish
