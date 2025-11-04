@@ -3,6 +3,13 @@ basics:
   name: Antonio Ercole De Luca
   label: Software Engineer
   email: eracle@posteo.eu
+  profiles:
+    - network: "github"
+      username: "eracle"
+      url: "https://github.com/eracle"
+    - network: "linkedin"
+      username: "eracle"
+      url: "https://www.linkedin.com/in/eracle/"
   summary: |
     Since 2014, I've held many consulting roles such as a Software Engineer, Machine Learning
     Engineer, Data Architect, Data Scientist, DevOps, and Scrum Master. My professional
@@ -20,6 +27,8 @@ work:
     position: Software Architect
     startDate: 2024-04-01
     endDate: 2025-09-15
+    location: "Remote - Denver, Colorado"
+    industry: "AI and Commodity Trading"
     description: |
       Prosperous AI offers an AI-driven automation platform specifically designed for
       wholesale fuel operations. It aims to provide faster quotes, lower rack prices,
@@ -33,6 +42,17 @@ work:
       Docker Compose, and CI/CD pipelines, ensuring robust dev/prod environments.
       Collaborated with CEO and QA to define user stories and led feature implementation,
       bug fixes, and ML model architecture.
+    key_responsibilities:
+      - Architected and developed a scalable data pipeline and backend infrastructure for an arbitrage software platform in the commodity market (fuel).
+      - Designed load optimization algorithms, REST endpoints, and data transformation pipelines, enabling efficient fuel trading decisions.
+      - Managed end-to-end deployment on GCP using Docker, Docker Compose, and CI/CD pipelines, ensuring robust dev/prod environments.
+      - Collaborated with CEO and QA to define user stories and led feature implementation, bug fixes, and ML model architecture.
+    skills_acquired:
+      - Python
+      - Docker
+      - Google Cloud
+      - Dagster
+      - dbt
     highlights:
       - Optimized fuel logistics: Developed a load optimization algorithm that reduced human error and fleet costs by prioritizing tank run-out timing and terminal selection, enabling high-tier clients to achieve operational efficiency (100% adoption by their trading teams).
       - Streamlined data pipeline: Built a dbt/Dagster pipeline to ingest and transform data from 329 stations and 1,000+ tanks, correcting flawed client data to deliver perfect outputs, retaining a high-tier client.
@@ -43,6 +63,8 @@ work:
     position: Entrepreneur
     startDate: 2021-10-01
     endDate: 2024-04-30
+    location: "Remote - Las Palmas de Gran Canaria"
+    industry: "Renewable Energy"
     description: |
       SunnyPlans offers geo-analytics services to help renewable energy developers
       find suitable land for Battery Energy Storage Systems (BESS) and solar projects.
@@ -62,11 +84,26 @@ work:
       explanation). Investing in the financial sector, generating a 40% ROI over a span of two
       years. I managed a portfolio of Exchange Traded Funds (ETFs) by adopting a Bayesian time
       series forecasting algorithm to analyze their historical pricing data.
+    key_responsibilities:
+      - Dedicated to the strategic selection of lands for solar energy projects, utilizing state-of-the-art algorithms and data-driven insights.
+      - Developed and launched a Chrome Extension designed to assist in Stable Diffusion prompts creation.
+      - Pioneered a project that used Programmatic SEO, driving an impressive initial daily visitor count of 100.
+      - Managed a portfolio of Exchange Traded Funds (ETFs) by adopting a Bayesian time series forecasting algorithm.
+    skills_acquired:
+      - Python
+      - Dagster
+      - DBT
+      - GCP
+      - SEO
+      - Bayesian Forecasting
+      - Chrome Extension Development
   - company: Aquaticode
     url: https://www.aquaticode.com/
     position: Software Engineer
     startDate: 2023-01-01
     endDate: 2023-06-30
+    location: "Remote"
+    industry: "Food Production Technology"
     description: |
       Aquaticode develops AI-powered solutions for aquaculture to boost seafood production.
       Their products, SORTpro and SORTvax, optimize farm production by sorting salmon
@@ -76,11 +113,22 @@ work:
       emphasizes sustainability and contributes to UN Sustainable Development Goals.
     summary: |
       At Aquaticode, a technology startup focused on optimising food production, I played a crucial role in enhancing a complex, real-time, and parallel software system operating on Windows. This software was initially developed by another team, requiring deep troubleshooting and problem-solving skills to understand and improve it.   My primary responsibilities included functionally analyzing existing features, and then replacing them with more straightforward and more efficient versions. I also have hands-on experience with video processing, as we handled real-time ultrasound videos of fish using FFmpeg. These strategic improvements not only increase the system's overall efficiency and usability but also directly contributed to Aquaticode's mission of reducing food production costs.
+    key_responsibilities:
+      - Enhanced a complex, real-time, and parallel software system operating on Windows.
+      - Functionally analyzed existing features, and then replacing them with more straightforward and more efficient versions.
+      - Contributed to Aquaticode's mission of reducing food production costs.
+    skills_acquired:
+      - Python
+      - Windows Software Development
+      - System Optimization
+      - C++
   - company: Molo Finance
     url: https://www.molofinance.com/
     position: Software Engineer
     startDate: 2022-02-01
     endDate: 2022-04-30
+    location: "Remote - London"
+    industry: "Finance"
     description: |
       Molo Finance offers online mortgages for intermediaries, combining technology
       with broker support to simplify the mortgage process. They cater to first-time
@@ -92,11 +140,21 @@ work:
       mortgages to UK customers. Participated in a team effort towards code-base
       refactoring, environment setup (local/test/production), implementing
       backwards-compatible changes to the RESTful API, and bug fixes.
+    key_responsibilities:
+      - Played an instrumental role in launching a digital platform offering residential mortgages to UK customers.
+      - Participated in a team effort towards code-base refactoring, environment setup (local/test/production).
+      - Implementing backwards-compatible changes to the RESTful API, and bug fixes.
+    skills_acquired:
+      - Django
+      - RESTful API
+      - Code Refactoring
   - company: World Food Program
     url: https://www.wfp.org/
     position: Software Engineer
     startDate: 2021-03-01
     endDate: 2021-10-31
+    location: "Remote - Rome"
+    industry: "Humanitarian Aid"
     description: |
       The UN World Food Programme (WFP) is the largest humanitarian organization
       globally, dedicated to saving and changing lives by providing emergency relief
@@ -111,11 +169,22 @@ work:
       testing practices in line with agreed internal TDD coding standards. Identified
       and reported accrued technical debt from past designs. Led a team of Quality
       Assurance Engineers to establish the groundwork for end-to-end automated testing.
+    key_responsibilities:
+      - Spearheaded a team of over 10 engineers, promoting Scrum adoption and implementing effective practices like daily stand-ups.
+      - Guided junior developers in homogenizing testing practices in line with agreed internal TDD coding standards.
+      - Identified and reported accrued technical debt from past designs.
+      - Led a team of Quality Assurance Engineers to establish the groundwork for end-to-end automated testing.
+    skills_acquired:
+      - Scrum
+      - TDD
+      - Team Leadership
   - company: Upwork
     url: https://www.upwork.com/
     position: Freelance Software Engineer
     startDate: 2017-01-01
     endDate: 2019-12-31
+    location: "Remote"
+    industry: "Freelance"
     summary: |
       Collaborated with more than ten international clients via Upwork.com, consistently
       maintaining a median feedback score of 5/5 stars. Key achievements include,
@@ -125,11 +194,23 @@ work:
       app and its relational database from Digital Ocean to Google Cloud Platform (GCP)
       via Docker and Docker-compose. Constructed a Django app with 83% testing coverage,
       applying Test Driven Development.
+    key_responsibilities:
+      - Collaborated with more than ten international clients via Upwork.com, consistently maintaining a median feedback score of 5/5 stars.
+      - Engineering an image similarity search engine with virtually no response time, and indexing over 40k images using an Approximate Nearest Neighbors data structure.
+      - Minimized a client’s cloud infrastructure costs to zero by migrating a Django app and its relational database from Digital Ocean to Google Cloud Platform (GCP) via Docker and Docker-compose.
+      - Constructed a Django app with 83% testing coverage, applying Test Driven Development.
+    skills_acquired:
+      - Django
+      - Docker
+      - GCP
+      - TDD
   - company: Kiwi Campus
     url: https://robot.com/
     position: Software Engineer
     startDate: 2017-01-01
     endDate: 2017-12-31
+    location: "Berkeley, US"
+    industry: "Food Delivery"
     description: |
       Robot.com (formerly Kiwi Campus, Inc.) provides robots for immediate use in
       delivery, logistics, advertising, and inspection. Their robots are currently
@@ -138,11 +219,18 @@ work:
     summary: |
       I developed a platform integrating a supplier’s API, successfully processing
       over 2k food delivery orders in less than two months.
+    key_responsibilities:
+      - Developed a platform integrating a supplier’s API, successfully processing over 2k food delivery orders in less than two months.
+    skills_acquired:
+      - API Integration
+      - Python
   - company: Legalkite
     url: https://www.legalkite.com/
     position: Backend Engineer
     startDate: 2016-01-01
     endDate: 2017-12-31
+    location: "Remote - Zurich"
+    industry: "Legal Tech"
     description: |
       LegalKite is a platform designed for legal professionals and academics, primarily
       in Switzerland, to annotate laws, contracts, and insurance policies. It allows
@@ -154,11 +242,23 @@ work:
       Addressed data inconsistency issues by refactoring a relational database schema
       and making Elasticsearch a read-replica. Scaled a data scraping module by a
       factor of 100x by porting it to Scrapy and Scrapinghub.
+    key_responsibilities:
+      - Contributed to the design of various RESTful endpoints.
+      - Amplified the REST API response time tenfold by converting Django ORM queries into raw SQL queries.
+      - Addressed data inconsistency issues by refactoring a relational database schema and making Elasticsearch a read-replica.
+      - Scaled a data scraping module by a factor of 100x by porting it to Scrapy and Scrapinghub.
+    skills_acquired:
+      - Django
+      - SQL
+      - Elasticsearch
+      - Scrapy
   - company: SpazioDati
     url: https://www.spaziodati.eu/
     position: ML Engineer Intern
     startDate: 2015-01-01
     endDate: 2016-12-31
+    location: "Pisa, Italy"
+    industry: "Data Science"
     description: |
       SpazioDati is an Italian company that specializes in data-as-a-service, focusing
       on Sales Intelligence and Lead Generation. They develop a multilingual Business
@@ -169,11 +269,20 @@ work:
       platform’s API named CrowdFlower. Improved the F1-score of a Logistic Regression
       model used for Named Entity Linking by 2x, applying a technique called
       Uncertainty Sampling.
+    key_responsibilities:
+      - Developed a Human-in-the-loop Active Learning workflow using a crowdsourcing platform’s API named CrowdFlower.
+      - Improved the F1-score of a Logistic Regression model used for Named Entity Linking by 2x, applying a technique called Uncertainty Sampling.
+    skills_acquired:
+      - Machine Learning
+      - Active Learning
+      - CrowdFlower API
   - company: Synthema
     url: https://www.s-ai.it/
     position: Software Developer
     startDate: 2014-01-01
     endDate: 2015-12-31
+    location: "Pisa, Italy"
+    industry: "NLP"
     description: |
       S.AI is a company specializing in NLP and ASR technologies, offering semantic
       analysis and speech recognition. They provide customized web services and
@@ -184,6 +293,13 @@ work:
       Segmentation, Tokenization, POS, Stop Words, Dependency Parsing, and NER
       for various languages including Romanian, Japanese, Chinese, and German.
       Contributed to an EU-funded (5.6 Mln €) project named CAPER.
+    key_responsibilities:
+      - Operationalized several steps in Natural Language Processing (NLP) like Segmentation, Tokenization, POS, Stop Words, Dependency Parsing, and NER for various languages including Romanian, Japanese, Chinese, and German.
+      - Contributed to an EU-funded (5.6 Mln €) project named CAPER.
+    skills_acquired:
+      - NLP
+      - Python
+      - Multilingual Processing
 projects:
   - name: Linkedin Scraper
     url: https://github.com/eracle/linkedin
@@ -197,6 +313,18 @@ projects:
     highlights:
       - Almost 1k stars on GitHub
       - Exports data to CSV format
+  - name: SunnyPlans
+    url: https://sunnyplans.com
+    summary: A startup dedicated to the strategic selection of lands for solar energy projects, utilizing state-of-the-art algorithms and data-driven insights.
+  - name: Chrome Extension for Stable Diffusion Prompts
+    summary: Developed and launched a Chrome Extension designed to assist in Stable Diffusion prompts creation. This tool quickly gained traction, securing 200 installations within its first month.
+  - name: Programmatic SEO Project
+    summary: Pioneered a project that used Programmatic SEO, driving an impressive initial daily visitor count of 100. Through this venture, I ranked restaurants on sold products by leveraging Sentiment Analysis (video explanation).
+  - name: Financial Portfolio Management
+    summary: Investing in the financial sector, generating a 40% ROI over a span of two years. I managed a portfolio of Exchange Traded Funds (ETFs) by adopting a Bayesian time series forecasting algorithm to analyze their historical pricing data.
+  - name: financial-dagster-dbt-lab
+    url: https://github.com/eracle/financial-dagster-dbt-lab
+    summary: Open-source project related to financial data pipelines using Dagster and dbt.
 volunteer:
   - organization: PyData Las Palmas
     position: Organizer
@@ -270,3 +398,10 @@ languages:
   - language: English
   - language: Spanish
   - language: Italian
+interests:
+  - name: Machine Learning
+  - name: Data Science
+  - name: Statistics
+  - name: Finance
+  - name: Python Programming
+  - name: Open Source Contributions
