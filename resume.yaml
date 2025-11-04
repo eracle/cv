@@ -3,13 +3,30 @@ basics:
   name: Antonio Ercole De Luca
   label: Software Engineer
   email: eracle@posteo.eu
-  summary: Since 2014, I've held many consulting roles such as a Software Engineer, Machine Learning Engineer, Data Architect, Data Scientist, DevOps, and Scrum Master. My professional experience spans the entire realm of data management, from data retrieval and storage to the scaling of cloud infrastructure, as well as conducting statistical analysis and data mining operations. My expertise encapsulates the complete data life-cycle, including web scraping, designing relational databases, cloud deployment, managing RESTful APIs, and utilizing Notebooks. In 2019, I embarked on a sabbatical of two years to delve into the intricate domains of Statistics and finance. At the onset of my career, I had the opportunity to contribute to two scientific papers focusing on Web Scraping and Data Visualization.
+  summary: |
+    Since 2014, I've held many consulting roles such as a Software Engineer, Machine Learning
+    Engineer, Data Architect, Data Scientist, DevOps, and Scrum Master. My professional
+    experience spans the entire realm of data management, from data retrieval and storage
+    to the scaling of cloud infrastructure, as well as conducting statistical analysis
+    and data mining operations. My expertise encapsulates the complete data life-cycle,
+    including web scraping, designing relational databases, cloud deployment, managing
+    RESTful APIs, and utilizing Notebooks. In 2019, I embarked on a sabbatical of two years
+    to delve into the intricate domains of Statistics and finance. At the onset of my career,
+    I had the opportunity to contribute to two scientific papers focusing on Web Scraping
+    and Data Visualization.
 work:
   - company: Prosperous AI
     position: Software Architect
     startDate: 2024-04-01
     endDate: 2025-09-15
-    summary: I architected and developed a scalable data pipeline and backend infrastructure for an arbitrage software platform in the commodity market (fuel). Designed load optimization algorithms, REST endpoints, and data transformation pipelines, enabling efficient fuel trading decisions. Managed end-to-end deployment on GCP using Docker, Docker Compose, and CI/CD pipelines, ensuring robust dev/prod environments. Collaborated with CEO and QA to define user stories and led feature implementation, bug fixes, and ML model architecture.
+    summary: |
+      I architected and developed a scalable data pipeline and backend infrastructure
+      for an arbitrage software platform in the commodity market (fuel). Designed load
+      optimization algorithms, REST endpoints, and data transformation pipelines, enabling
+      efficient fuel trading decisions. Managed end-to-end deployment on GCP using Docker,
+      Docker Compose, and CI/CD pipelines, ensuring robust dev/prod environments.
+      Collaborated with CEO and QA to define user stories and led feature implementation,
+      bug fixes, and ML model architecture.
     highlights:
       - Optimized fuel logistics: Developed a load optimization algorithm that reduced human error and fleet costs by prioritizing tank run-out timing and terminal selection, enabling high-tier clients to achieve operational efficiency (100% adoption by their trading teams).
       - Streamlined data pipeline: Built a dbt/Dagster pipeline to ingest and transform data from 329 stations and 1,000+ tanks, correcting flawed client data to deliver perfect outputs, retaining a high-tier client.
@@ -19,47 +36,102 @@ work:
     position: Entrepreneur
     startDate: 2021-10-01
     endDate: 2024-04-30
-    summary: My entrepreneurial journey has been marked by innovation and persistence. One of my most validated endeavours is SunnyPlans, a startup dedicated to the strategic selection of lands for solar energy projects, utilizing state-of-the-art algorithms and data-driven insights. In addition to SunnyPlans, my determination to create value and address unmet needs led me to initiate three other ventures now ended. Developed and launched a Chrome Extension designed to assist in Stable Diffusion prompts creation. This tool quickly gained traction, securing 200 installations within its first month. Pioneered a project that used Programmatic SEO, driving an impressive initial daily visitor count of 100. Through this venture, I ranked restaurants on sold products by leveraging Sentiment Analysis (video explanation). Investing in the financial sector, generating a 40% ROI over a span of two years. I managed a portfolio of Exchange Traded Funds (ETFs) by adopting a Bayesian time series forecasting algorithm to analyze their historical pricing data.
+    summary: |
+      My entrepreneurial journey has been marked by innovation and persistence. One of my most
+      validated endeavours is SunnyPlans, a startup dedicated to the strategic selection of lands
+      for solar energy projects, utilizing state-of-the-art algorithms and data-driven insights.
+      In addition to SunnyPlans, my determination to create value and address unmet needs led me
+      to initiate three other ventures now ended. Developed and launched a Chrome Extension
+      designed to assist in Stable Diffusion prompts creation. This tool quickly gained traction,
+      securing 200 installations within its first month. Pioneered a project that used
+      Programmatic SEO, driving an impressive initial daily visitor count of 100. Through this
+      venture, I ranked restaurants on sold products by leveraging Sentiment Analysis (video
+      explanation). Investing in the financial sector, generating a 40% ROI over a span of two
+      years. I managed a portfolio of Exchange Traded Funds (ETFs) by adopting a Bayesian time
+      series forecasting algorithm to analyze their historical pricing data.
   - company: Aquaticode
     position: Software Engineer
     startDate: 2023-01-01
     endDate: 2023-06-30
-    summary: At Aquaticode, a technology startup focused on optimising food production, I played a crucial role in enhancing a complex, real-time, and parallel software system operating on Windows. This software was initially developed by another team, requiring deep troubleshooting and problem-solving skills to understand and improve it. My primary responsibilities included functionally analyzing existing features, and then replacing them with more straightforward and more efficient versions. These strategic improvements not only increase the system's overall efficiency and usability but also directly contributed to Aquaticode's mission of reducing food production costs.
+    summary: |
+      At Aquaticode, a technology startup focused on optimising food production, I played a crucial role in enhancing a complex, real-time, and parallel software system operating on Windows. This software was initially developed by another team, requiring deep troubleshooting and problem-solving skills to understand and improve it.   My primary responsibilities included functionally analyzing existing features, and then replacing them with more straightforward and more efficient versions. I also have hands-on experience with video processing, as we handled real-time ultrasound videos of fish using FFmpeg. These strategic improvements not only increase the system's overall efficiency and usability but also directly contributed to Aquaticode's mission of reducing food production costs.
   - company: Molo Finance
     position: Software Engineer
     startDate: 2022-02-01
     endDate: 2022-04-30
-    summary: Played an instrumental role in launching a digital platform offering residential mortgages to UK customers. Participated in a team effort towards code-base refactoring, environment setup (local/test/production), implementing backwards-compatible changes to the RESTful API, and bug fixes.
+    summary: |
+      Played an instrumental role in launching a digital platform offering residential
+      mortgages to UK customers. Participated in a team effort towards code-base
+      refactoring, environment setup (local/test/production), implementing
+      backwards-compatible changes to the RESTful API, and bug fixes.
   - company: World Food Program
     position: Software Engineer
     startDate: 2021-03-01
     endDate: 2021-10-31
-    summary: Spearheaded a team of over 10 engineers, promoting Scrum adoption and implementing effective practices like daily stand-ups. Guided junior developers in homogenizing testing practices in line with agreed internal TDD coding standards. Identified and reported accrued technical debt from past designs. Led a team of Quality Assurance Engineers to establish the groundwork for end-to-end automated testing.
+    summary: |
+      Spearheaded a team of over 10 engineers, promoting Scrum adoption and implementing
+      effective practices like daily stand-ups. Guided junior developers in homogenizing
+      testing practices in line with agreed internal TDD coding standards. Identified
+      and reported accrued technical debt from past designs. Led a team of Quality
+      Assurance Engineers to establish the groundwork for end-to-end automated testing.
   - company: Upwork
     position: Freelance Software Engineer
     startDate: 2017-01-01
     endDate: 2019-12-31
-    summary: Collaborated with more than ten international clients via Upwork.com, consistently maintaining a median feedback score of 5/5 stars. Key achievements include, Engineering an image similarity search engine with virtually no response time, and indexing over 40k images using an Approximate Nearest Neighbors data structure. It minimized a client’s cloud infrastructure costs to zero by migrating a Django app and its relational database from Digital Ocean to Google Cloud Platform (GCP) via Docker and Docker-compose. Constructed a Django app with 83% testing coverage, applying Test Driven Development.
+    summary: |
+      Collaborated with more than ten international clients via Upwork.com, consistently
+      maintaining a median feedback score of 5/5 stars. Key achievements include,
+      Engineering an image similarity search engine with virtually no response time,
+      and indexing over 40k images using an Approximate Nearest Neighbors data structure.
+      It minimized a client’s cloud infrastructure costs to zero by migrating a Django
+      app and its relational database from Digital Ocean to Google Cloud Platform (GCP)
+      via Docker and Docker-compose. Constructed a Django app with 83% testing coverage,
+      applying Test Driven Development.
   - company: Kiwi Campus
     position: Software Engineer
     startDate: 2017-01-01
     endDate: 2017-12-31
-    summary: I developed a platform integrating a supplier’s API, successfully processing over 2k food delivery orders in less than two months.
+    summary: |
+      I developed a platform integrating a supplier’s API, successfully processing
+      over 2k food delivery orders in less than two months.
   - company: Legalkite
     position: Backend Engineer
     startDate: 2016-01-01
     endDate: 2017-12-31
-    summary: Contributed to the design of various RESTful endpoints. Amplified the REST API response time tenfold by converting Django ORM queries into raw SQL queries. Addressed data inconsistency issues by refactoring a relational database schema and making Elasticsearch a read-replica. Scaled a data scraping module by a factor of 100x by porting it to Scrapy and Scrapinghub.
+    summary: |
+      Contributed to the design of various RESTful endpoints. Amplified the REST API
+      response time tenfold by converting Django ORM queries into raw SQL queries.
+      Addressed data inconsistency issues by refactoring a relational database schema
+      and making Elasticsearch a read-replica. Scaled a data scraping module by a
+      factor of 100x by porting it to Scrapy and Scrapinghub.
   - company: SpazioDati
     position: ML Engineer Intern
     startDate: 2015-01-01
     endDate: 2016-12-31
-    summary: Developed a Human-in-the-loop Active Learning workflow using a crowdsourcing platform’s API named CrowdFlower. Improved the F1-score of a Logistic Regression model used for Named Entity Linking by 2x, applying a technique called Uncertainty Sampling.
+    summary: |
+      Developed a Human-in-the-loop Active Learning workflow using a crowdsourcing
+      platform’s API named CrowdFlower. Improved the F1-score of a Logistic Regression
+      model used for Named Entity Linking by 2x, applying a technique called
+      Uncertainty Sampling.
   - company: Synthema
     position: Software Developer
     startDate: 2014-01-01
     endDate: 2015-12-31
-    summary: Operationalized several steps in Natural Language Processing (NLP) like Segmentation, Tokenization, POS, Stop Words, Dependency Parsing, and NER for various languages including Romanian, Japanese, Chinese, and German. Contributed to an EU-funded (5.6 Mln €) project named CAPER.
+    summary: |
+      Operationalized several steps in Natural Language Processing (NLP) like
+      Segmentation, Tokenization, POS, Stop Words, Dependency Parsing, and NER
+      for various languages including Romanian, Japanese, Chinese, and German.
+      Contributed to an EU-funded (5.6 Mln €) project named CAPER.
+projects:
+  - name: Linkedin Scraper
+    url: https://github.com/eracle/linkedin
+    summary: |
+      An open-source LinkedIn data scraper with almost 1k stars on GitHub.
+      It is built with Python3, Selenium WebDriver, Chromium headless, Docker, and Scrapy.
+      It extracts profile data, company information, and name-based data from LinkedIn.
+      It can also send custom connection messages using the ChatGPT API.
+    highlights:
+      - Almost 1k stars on GitHub
 volunteer:
   - organization: PyData Las Palmas
     position: Organizer
@@ -83,13 +155,15 @@ education:
     studyType: Master’s Degree
     startDate: 2011-01-01
     endDate: 2013-12-31
-    summary: Thesis on Natural Language Processing with title Applying Active Learning on Entity Linking.
+    summary: |
+      Thesis on Natural Language Processing with title Applying Active Learning on Entity Linking.
   - institution: University of Pisa, Italy
     area: Computer Science
     studyType: Bachelor's Degree
     startDate: 2007-01-01
     endDate: 2010-12-31
-    summary: Thesis on Natural Language Processing with title Document classification using lexical and semantic resources.
+    summary: |
+      Thesis on Natural Language Processing with title Document classification using lexical and semantic resources.
 skills:
   - name: Skills
     keywords:
