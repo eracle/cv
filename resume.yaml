@@ -25,8 +25,8 @@ work:
   - company: Prosperous AI
     url: https://www.prosperousprocess.ai/
     position: Software Architect
-    startDate: 2024-04-01
-    endDate: 2025-09-15
+    startDate: "2024-04-01"
+    endDate: "2025-09-15"
     location: "Remote - Denver, Colorado"
     industry: "AI and Commodity Trading"
     description: |
@@ -61,8 +61,8 @@ work:
   - company: SunnyPlans
     url: https://sunnyplans.com/
     position: Entrepreneur
-    startDate: 2021-10-01
-    endDate: 2024-04-30
+    startDate: "2021-10-01"
+    endDate: "2024-04-30"
     location: "Remote - Las Palmas de Gran Canaria"
     industry: "Renewable Energy"
     description: |
@@ -100,8 +100,8 @@ work:
   - company: Aquaticode
     url: https://www.aquaticode.com/
     position: Software Engineer
-    startDate: 2023-01-01
-    endDate: 2023-06-30
+    startDate: "2023-01-01"
+    endDate: "2023-06-30"
     location: "Remote"
     industry: "Food Production Technology"
     description: |
@@ -125,8 +125,8 @@ work:
   - company: Molo Finance
     url: https://www.molofinance.com/
     position: Software Engineer
-    startDate: 2022-02-01
-    endDate: 2022-04-30
+    startDate: "2022-02-01"
+    endDate: "2022-04-30"
     location: "Remote - London"
     industry: "Finance"
     description: |
@@ -151,8 +151,8 @@ work:
   - company: World Food Program
     url: https://www.wfp.org/
     position: Software Engineer
-    startDate: 2021-03-01
-    endDate: 2021-10-31
+    startDate: "2021-03-01"
+    endDate: "2021-10-31"
     location: "Remote - Rome"
     industry: "Humanitarian Aid"
     description: |
@@ -181,8 +181,8 @@ work:
   - company: Upwork
     url: https://www.upwork.com/
     position: Freelance Software Engineer
-    startDate: 2017-01-01
-    endDate: 2019-12-31
+    startDate: "2017-01-01"
+    endDate: "2019-12-31"
     location: "Remote"
     industry: "Freelance"
     summary: |
@@ -207,8 +207,8 @@ work:
   - company: Kiwi Campus
     url: https://robot.com/
     position: Software Engineer
-    startDate: 2017-01-01
-    endDate: 2017-12-31
+    startDate: "2017-01-01"
+    endDate: "2017-12-31"
     location: "Berkeley, US"
     industry: "Food Delivery"
     description: |
@@ -227,8 +227,8 @@ work:
   - company: Legalkite
     url: https://www.legalkite.com/
     position: Backend Engineer
-    startDate: 2016-01-01
-    endDate: 2017-12-31
+    startDate: "2016-01-01"
+    endDate: "2017-12-31"
     location: "Remote - Zurich"
     industry: "Legal Tech"
     description: |
@@ -255,8 +255,8 @@ work:
   - company: SpazioDati
     url: https://www.spaziodati.eu/
     position: ML Engineer Intern
-    startDate: 2015-01-01
-    endDate: 2016-12-31
+    startDate: "2015-01-01"
+    endDate: "2016-12-31"
     location: "Pisa, Italy"
     industry: "Data Science"
     description: |
@@ -279,8 +279,8 @@ work:
   - company: Synthema
     url: https://www.s-ai.it/
     position: Software Developer
-    startDate: 2014-01-01
-    endDate: 2015-12-31
+    startDate: "2014-01-01"
+    endDate: "2015-12-31"
     location: "Pisa, Italy"
     industry: "NLP"
     description: |
@@ -338,8 +338,8 @@ education:
       largest universities in Italy, with a rich history and a wide range of courses.
     area: Statistics & Data Science
     studyType: Bachelor's Degree
-    startDate: 2019-01-01
-    endDate: 2020-12-31
+    startDate: "2019-01-01"
+    endDate: "2020-12-31"
     courses:
       - Financial Mathematics
       - Finance Theory
@@ -354,8 +354,8 @@ education:
       It is known for its strong programs in science and engineering.
     area: Data Science and Business Informatics
     studyType: Master’s Degree
-    startDate: 2011-01-01
-    endDate: 2013-12-31
+    startDate: "2011-01-01"
+    endDate: "2013-12-31"
     summary: |
       Thesis on Natural Language Processing with title Applying Active Learning on Entity Linking.
   - institution: University of Pisa, Italy
@@ -365,8 +365,8 @@ education:
       It is known for its strong programs in science and engineering.
     area: Computer Science
     studyType: Bachelor's Degree
-    startDate: 2007-01-01
-    endDate: 2010-12-31
+    startDate: "2007-01-01"
+    endDate: "2010-12-31"
     summary: |
       Thesis on Natural Language Processing with title Document classification using lexical and semantic resources.
 skills:
