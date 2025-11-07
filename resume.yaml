@@ -54,10 +54,10 @@ work:
       - Dagster
       - dbt
     highlights:
-      - Optimized fuel logistics: Developed a load optimization algorithm that reduced human error and fleet costs by prioritizing tank run-out timing and terminal selection, enabling high-tier clients to achieve operational efficiency (100% adoption by their trading teams).
-      - Streamlined data pipeline: Built a dbt/Dagster pipeline to ingest and transform data from 329 stations and 1,000+ tanks, correcting flawed client data to deliver perfect outputs, retaining a high-tier client.
-      - Accelerated feature delivery: Implemented TDD and CI/CD pipelines, reducing deployment errors by 80% and enabling rapid feature rollouts, enhancing sprint efficiency.
-      - Drove client retention: Delivered a Superset dashboard and pipeline for a mid-tier client in two weeks, integrating with Monday.com, ensuring ongoing client satisfaction and retention.
+      - Optimized fuel logistics. Developed a load optimization algorithm that reduced human error and fleet costs by prioritizing tank run-out timing and terminal selection, enabling high-tier clients to achieve operational efficiency (100% adoption by their trading teams).
+      - Streamlined data pipeline. Built a dbt/Dagster pipeline to ingest and transform data from 329 stations and 1,000+ tanks, correcting flawed client data to deliver perfect outputs, retaining a high-tier client.
+      - Accelerated feature delivery. Implemented TDD and CI/CD pipelines, reducing deployment errors by 80% and enabling rapid feature rollouts, enhancing sprint efficiency.
+      - Drove client retention. Delivered a Superset dashboard and pipeline for a mid-tier client in two weeks, integrating with Monday.com, ensuring ongoing client satisfaction and retention.
   - company: SunnyPlans
     url: https://sunnyplans.com/
     position: Entrepreneur
