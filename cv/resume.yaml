@@ -97,6 +97,7 @@ work:
       - SEO
       - Bayesian Forecasting
       - Chrome Extension Development
+      - postgis
   - company: Aquaticode
     url: https://www.aquaticode.com/
     position: Software Engineer
@@ -148,6 +149,7 @@ work:
       - Django
       - RESTful API
       - Code Refactoring
+      - pip
   - company: World Food Program
     url: https://www.wfp.org/
     position: Software Engineer
@@ -175,6 +177,9 @@ work:
       - Identified and reported accrued technical debt from past designs.
       - Led a team of Quality Assurance Engineers to establish the groundwork for end-to-end automated testing.
     skills_acquired:
+      - python
+      - django
+      - docker
       - Scrum
       - TDD
       - Team Leadership
@@ -196,14 +201,16 @@ work:
       applying Test Driven Development.
     key_responsibilities:
       - Collaborated with more than ten international clients via Upwork.com, consistently maintaining a median feedback score of 5/5 stars.
-      - Engineering an image similarity search engine with virtually no response time, and indexing over 40k images using an Approximate Nearest Neighbors data structure.
+      - Engineering an image similarity search engine with virtually no response time, and indexing over 40k images using an Approximate Nearest Neighbours data structure.
       - Minimized a client’s cloud infrastructure costs to zero by migrating a Django app and its relational database from Digital Ocean to Google Cloud Platform (GCP) via Docker and Docker-compose.
       - Constructed a Django app with 83% testing coverage, applying Test Driven Development.
     skills_acquired:
+      - python
       - Django
       - Docker
       - GCP
       - TDD
+      - git
   - company: Kiwi Campus
     url: https://robot.com/
     position: Software Engineer
@@ -222,6 +229,7 @@ work:
     key_responsibilities:
       - Developed a platform integrating a supplier’s API, successfully processing over 2k food delivery orders in less than two months.
     skills_acquired:
+      - django
       - API Integration
       - Python
   - company: Legalkite
@@ -248,7 +256,10 @@ work:
       - Addressed data inconsistency issues by refactoring a relational database schema and making Elasticsearch a read-replica.
       - Scaled a data scraping module by a factor of 100x by porting it to Scrapy and Scrapinghub.
     skills_acquired:
+      - python
       - Django
+      - postgres
+      - docker
       - SQL
       - Elasticsearch
       - Scrapy
@@ -273,9 +284,10 @@ work:
       - Developed a Human-in-the-loop Active Learning workflow using a crowdsourcing platform’s API named CrowdFlower.
       - Improved the F1-score of a Logistic Regression model used for Named Entity Linking by 2x, applying a technique called Uncertainty Sampling.
     skills_acquired:
+      - groovy
       - Machine Learning
       - Active Learning
-      - CrowdFlower API
+      - CrowdFlower (then Figure Eight, then Appen)
   - company: Synthema
     url: https://www.s-ai.it/
     position: Software Developer
@@ -299,7 +311,7 @@ work:
     skills_acquired:
       - NLP
       - Python
-      - Multilingual Processing
+      - Ubuntu
 projects:
   - name: Linkedin Scraper
     url: https://github.com/eracle/linkedin
