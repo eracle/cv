@@ -11,16 +11,7 @@ basics:
       username: "eracle"
       url: "https://www.linkedin.com/in/eracle/"
   summary: |
-    Since 2014, I've held many consulting roles such as a Software Engineer, Machine Learning
-    Engineer, Data Architect, Data Scientist, DevOps, and Scrum Master. My professional
-    experience spans the entire realm of data management, from data retrieval and storage
-    to the scaling of cloud infrastructure, as well as conducting statistical analysis
-    and data mining operations. My expertise encapsulates the complete data life-cycle,
-    including web scraping, designing relational databases, cloud deployment, managing
-    RESTful APIs, and utilizing Notebooks. In 2019, I embarked on a sabbatical of two years
-    to delve into the intricate domains of Statistics and finance. At the onset of my career,
-    I had the opportunity to contribute to two scientific papers focusing on Web Scraping
-    and Data Visualization.
+    Since 2014, I've held various consulting roles, including Software Engineer, Machine Learning Engineer, Data Architect, Data Scientist, DevOps, and Scrum Master. My professional experience spans the entire realm of data management, from data retrieval and storage to the scaling of cloud infrastructure, as well as conducting statistical analysis and data mining operations. My expertise encompasses the complete data life cycle, including web scraping, designing relational databases, cloud deployment, managing RESTful APIs, and utilising Jupyter Notebooks. In 2019, I embarked on a sabbatical of two years to delve into the intricate domains of Statistics and finance. At the onset of my career, I had the opportunity to contribute to two scientific papers focusing on Web Scraping and Data Visualisation.
 work:
   - company: Prosperous AI
     url: https://www.prosperousprocess.ai/
