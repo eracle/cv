@@ -1,0 +1,17 @@
+Read the file resume.toon and write a cover letter on a file for the following job,
+
+Instructions:
+Aim for a concise cover letter between 3 to 4 paragraphs long.
+Briefly introduce yourself and why you are interested in the job.
+Highlight 2–3 key experiences or projects that align with the job requirements.
+For each example — clearly describe your role, the challenge you faced, the actions you took, and the results you achieved.
+Quantify previous achievements where applicable as it adds credibility.
+Tailor your examples to demonstrate your expertise in the skills mentioned in the job posting. Consider relevant soft skills in addition to technical skills.
+Provide links to portfolios or case studies if applicable to showcase your work.
+Provide enough detail to showcase your relevant expertise and achievements, but avoid lengthy descriptions.
+Clearly state what makes you stand out from other candidates. This could be unique skills, experiences, or perspectives.
+Close your cover letter by expressing enthusiasm for the opportunity to discuss your application further.
+Maintain a professional yet personable tone. Show confidence in your abilities.
+Proofread carefully before submitting your cover letter.
+
+Job description:
