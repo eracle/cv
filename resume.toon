@@ -39,11 +39,12 @@ work[10]:
       bug fixes, and ML model architecture.
     key_responsibilities[4]: Architected and developed a scalable data pipeline and backend infrastructure for an arbitrage software platform in the commodity market (fuel).,"Designed load optimization algorithms, REST endpoints, and data transformation pipelines, enabling efficient fuel trading decisions.","Managed end-to-end deployment on GCP using Docker, Docker Compose, and CI/CD pipelines, ensuring robust dev/prod environments.","Collaborated with CEO and QA to define user stories and led feature implementation, bug fixes, and ML model architecture."
     skills_acquired[5]: Python,Docker,Google Cloud,Dagster,dbt
-    highlights[4]:
+    highlights[5]:
       - "Optimized fuel logistics": "Developed a load optimization algorithm that reduced human error and fleet costs by prioritizing tank run-out timing and terminal selection, enabling high-tier clients to achieve operational efficiency (100% adoption by their trading teams)."
       - "Streamlined data pipeline": "Built a dbt/Dagster pipeline to ingest and transform data from 329 stations and 1,000+ tanks, correcting flawed client data to deliver perfect outputs, retaining a high-tier client."
       - "Accelerated feature delivery": "Implemented TDD and CI/CD pipelines, reducing deployment errors by 80% and enabling rapid feature rollouts, enhancing sprint efficiency."
       - "Drove client retention": "Delivered a Superset dashboard and pipeline for a mid-tier client in two weeks, integrating with Monday.com, ensuring ongoing client satisfaction and retention."
+      - "Scraped RFP data": "Scraped 8 different governmental websites for RFPs (Request for Proposals) to feed the data pipeline."
   - company: SunnyPlans
     url: "https://sunnyplans.com/"
     position: Entrepreneur
@@ -226,7 +227,7 @@ work[10]:
       Contributed to an EU-funded (5.6 Mln €) project named CAPER.
     key_responsibilities[2]: "Operationalized several steps in Natural Language Processing (NLP) like Segmentation, Tokenization, POS, Stop Words, Dependency Parsing, and NER for various languages including Romanian, Japanese, Chinese, and German.",Contributed to an EU-funded (5.6 Mln €) project named CAPER.
     skills_acquired[3]: NLP,Python,Multilingual Processing
-projects[6]:
+projects[7]:
   - name: Linkedin Scraper
     url: "https://github.com/eracle/linkedin"
     summary: |
@@ -244,6 +245,14 @@ projects[6]:
     summary: "Developed and launched a Chrome Extension designed to assist in Stable Diffusion prompts creation. This tool quickly gained traction, securing 200 installations within its first month."
   - name: Programmatic SEO Project
     summary: "Pioneered a project that used Programmatic SEO, driving an impressive initial daily visitor count of 100. Through this venture, I ranked restaurants on sold products by leveraging Sentiment Analysis (video explanation)."
+  - name: Various Web Scraping Projects
+    summary: |
+      Developed and implemented several web scraping pipelines to gather data
+      from various sources. For Prosperous AI, I scraped 8 different governmental
+      websites for RFPs (Request for Proposals). Other notable scraping projects include
+      subito.it, thefork.com, justeat.com, linkedin.com, and admin.ch.
+      These projects involved handling different data formats and website structures,
+      and were built using technologies like Python, Scrapy, Playwright and Selenium.
   - name: Financial Portfolio Management
     summary: "Investing in the financial sector, generating a 40% ROI over a span of two years. I managed a portfolio of Exchange Traded Funds (ETFs) by adopting a Bayesian time series forecasting algorithm to analyze their historical pricing data."
   - name: financial-dagster-dbt-lab
