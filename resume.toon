@@ -228,16 +228,18 @@ work[10]:
     key_responsibilities[2]: "Operationalized several steps in Natural Language Processing (NLP) like Segmentation, Tokenization, POS, Stop Words, Dependency Parsing, and NER for various languages including Romanian, Japanese, Chinese, and German.",Contributed to an EU-funded (5.6 Mln €) project named CAPER.
     skills_acquired[3]: NLP,Python,Multilingual Processing
 projects[7]:
-  - name: Linkedin Scraper
-    url: "https://github.com/eracle/linkedin"
+  - name: OpenOutreach
+    url: "https://github.com/eracle/OpenOutreach"
     summary: |
-      An open-source LinkedIn data scraper with almost 1k stars on GitHub.
-      It is built with Python3, Selenium WebDriver, Chromium headless, Docker, and Scrapy.
-      It extracts profile data (phone numbers, emails, education, work experience),
-      company data (employees of a specific company), and name-based data from LinkedIn,
-      exporting it to a CSV format. It can also send custom connection messages using the
-      ChatGPT API. The repository includes instructions for installation, setup, and testing.
-    highlights[2]: Almost 1k stars on GitHub,Exports data to CSV format
+      An open-source LinkedIn automation tool for automated networking and agentic marketing.
+      It is built with Python3, Playwright, Docker, and SQLite.
+      It enables users to create and execute complex, human-like outreach campaigns,
+      including features like AI-powered message generation, multi-account management,
+      and advanced analytics with A/B testing. All data is stored locally, and the
+      platform is designed to be fully extensible.
+    highlights:
+      - Free and open-source, with a developer-first approach.
+      - Scales from simple outreach to a multi-account marketing platform.
   - name: SunnyPlans
     url: "https://sunnyplans.com"
     summary: "A startup dedicated to the strategic selection of lands for solar energy projects, utilizing state-of-the-art algorithms and data-driven insights."
